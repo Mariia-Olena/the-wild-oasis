@@ -2,4 +2,4 @@
 
 ## Web-page
 
-https://the-wild-oasis-mariia-olena.vercel.app
+https://the-wild-oasis-mariia-olena.vercel.app/
